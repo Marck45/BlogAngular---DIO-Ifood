@@ -1,0 +1,13 @@
+.articles-container{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
